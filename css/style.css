@@ -272,7 +272,7 @@ padding-bottom: 8px;
   font-family: var(--ff-secondary);
   margin-bottom: .7em;
   width: 50ch;
-  font-weight: var(--fw-bold);
+  /* font-weight: var(--fw-bold); */
   font-family: var(--ff-primary);
   color: var(--clr--lightGray);
   
@@ -292,6 +292,11 @@ padding-bottom: 8px;
   margin-top: 1em;
   margin-left: 0;
 }
+
+/* .overflow {
+  overflow: hidden;
+  
+} */
 
 
 /* footer */
